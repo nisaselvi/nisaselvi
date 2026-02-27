@@ -117,6 +117,7 @@ Deepening my expertise in:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisaselvi&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaselvi&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nisaselvi&theme=default&hide_border=true" height="150"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,docker,git,python,figma" />
 </p>
