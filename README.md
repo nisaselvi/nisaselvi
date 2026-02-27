@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:nisaselvi.002@gmail.com"><img src="https://img.shields.io/badge/Email-nisaselvi.002%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nisaselvi"><img src="https://img.shields.io/badge/LinkedIn-nisaselvi-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nisa-selvi"><img src="https://img.shields.io/badge/LinkedIn-nisaselvi-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Istanbul-lightgrey?style=flat&logo=googlemaps"/>
 </p>
 
@@ -88,10 +88,10 @@ I ask *"Does it create value?"*
 
 | Layer | Technologies |
 |---|---|
-| **Backend** | Node.js · Express · PostgreSQL · Prisma · Redis · JWT · BullMQ |
-| **Frontend** | React · Next.js (App Router) · TypeScript · TailwindCSS · TanStack Query · Zustand |
+| **Backend** | Node.js · Express · PostgreSQL · Prisma · Redis · JWT |
+| **Frontend** | React · Next.js (App Router) · TypeScript · TailwindCSS · Zustand |
 | **AI & NLP** | Rasa · LLM Integrations · Intent/Entity Modeling · AI Research |
-| **DevOps & Tools** | Docker · GitHub Actions · Nginx · Git · Swagger · WebSocket · Jest |
+| **DevOps & Tools** | Docker · GitHub Actions · Nginx · Git · Swagger · WebSocket |
 
 ---
 
